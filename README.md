@@ -1,4 +1,4 @@
-# NARRATOR
+# TAGALOG
 
 Dataset for our paper: **Multilingual personalized hashtag recommendation for low resource Indic languages using graph-based deep neural network**
 
